@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#versao h3 {
+    padding: 0 20px 0px 20px;
+    color: rosybrown;
+}
+
+#versao h2 {
+    color: darkslategrey;
+}
+
+#mudanca h3 {
+    padding: 0 20px 0px 20px;
+    color: rosybrown;
+}
+
+#mudanca h2 {
+    color: darkslategrey;
+}
+
+#integracao h3 {
+    padding: 0 20px 0px 20px;
+    color: rosybrown;
+}
+
+#integracao h2 {
+    color: darkslategrey;
+}
